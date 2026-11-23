@@ -1,0 +1,7 @@
+{
+  "name": "DevOps Health Tracker",
+  "description": "Tableau de bord de monitoring d'infrastructure avec alertes Discord en temps réel.",
+  "description_en": "Infrastructure monitoring dashboard with real-time Discord webhook alerts.",
+  "url": "http://localhost:8080",
+  "tags": ["Docker", "Python", "Prometheus"]
+}
